@@ -1,0 +1,2 @@
+2014-10-19 18:45:11 - PHP Notice:  Undefined variable: text_edit in C:\xampp\htdocs\reetaeustace\admin\view\template\setting\setting.tpl on line 29
+2014-10-19 20:19:14 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\reetaeustace\admin\model\setting\setting.php on line 22
